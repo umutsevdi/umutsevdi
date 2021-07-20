@@ -20,7 +20,6 @@
 - I'm interested in backend development.
 - I spent my last year learning various programming languages and technologies.
 - I would like to spend more time on project development this year.
-- You can reach me from the links above.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true"></p>
