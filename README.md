@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true"></p>
 
-----
+
 <h2 align="center">Languages, Tools & Technologies</h2>
 
 
