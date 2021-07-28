@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/umut-sevdi/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://www.youtube.com/channel/UCy0svvM2HT12ce2OZ85gPhQ">
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-
 <a href="mailto:sevdiumut@protonmail.com">
 <img src="https://img.shields.io/badge/Protonmail-%23292536.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
