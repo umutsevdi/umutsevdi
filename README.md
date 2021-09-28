@@ -32,7 +32,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/C--%233?&style=flat-square&logo=c&color=grey" title=C>
 <img src="https://img.shields.io/badge/Java-Spring-%233?&style=flat-square&logo=java" title="Java Spring Framework">
-<img src="https://img.shields.io/badge/Go-gorilla-mux-%233?&style=flat-square&logo=Go&color=teal" title=Go>
+<img src="https://img.shields.io/badge/Go-gorilla/mux-%233?&style=flat-square&logo=Go&color=teal" title=Go>
 <img src="https://img.shields.io/badge/Dart-Flutter-%233?&style=flat-square&logo=flutter&color=blue" title="Dart Flutter Framework">
 <img src="https://img.shields.io/badge/NodeJS-Express-%233?&style=flat-square&logo=javascript&color=green" title="NodeJS Express Framework">
 <img src="https://img.shields.io/badge/Godot-GDScript-%233?&style=flat-square&logo=gd&color=darkblue" title="Godot Engine with GD Script">
