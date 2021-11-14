@@ -22,7 +22,6 @@
 
 <h2 align="center">Technologies & Tools</h2>
 
----
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=10">
