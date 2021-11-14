@@ -17,10 +17,7 @@
 - I love learning new things and building projects with them.
   
 <p align="center">
-<img style="
-border-left-width: 2px;
-border-left-color: white;
-border-left-style: solid;padding-left: 10px;"src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true"></p>
+<img style="border-left-width: 2px;border-left-style:solid;padding-left:10px;" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true"></p>
 </div>
 
 <h2 align="center">Technologies & Tools</h2>
