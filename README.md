@@ -49,5 +49,4 @@
 <img src="https://img.icons8.com/windows/30/60467a/fedora.png" title="Fedora">
 <img src="https://img.icons8.com/plasticine/30/000000/bash.png"/ title="Bash">
 
-----
-<h2>🎮<span  style="font-style: italic;"> Also you can check out my latest games from</span> <a style="font-weight:bold" src="https://umutsevdi.itch.io/"> 👾here!👾</a></h2>
+<h3 align="center">🎮<span  style="font-style: italic;"> Also you can check out my latest games from</span> <a style="font-weight:bold" src="https://umutsevdi.itch.io/"> 👾here!👾</a></h3>
