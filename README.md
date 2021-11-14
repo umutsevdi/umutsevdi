@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome</h1>
 
 <p align="center">
@@ -8,17 +7,19 @@
 <img src="https://img.shields.io/badge/Protonmail-%23292536.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="mailto:sevdiumut@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%234E34A7.svg?&style=for-the-badge&logo=google&logoColor=white"></a>
-
+</p>
 <h2 align="center">About Me</h2>
-<div style="display: flex;align-items: center;">
-
-- I'm studying Computer Engineering at Yildiz Technical University in Istanbul, Turkey.
-- I'm interested in backend development, computer graphics and computer networks.
-- I love learning new things and building projects with them.
-  
-<p align="center">
-<img style="border-left-width: 2px;border-left-style:solid;padding-left:10px;" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true"></p>
-</div>
+<table align="left">
+  <tr><td>
+ <ul>
+  <li>I'm studying Computer Engineering at Yildiz Technical University in Istanbul, Turkey.</li>
+  <li> I'm interested in backend development, computer graphics and computer networks.</li>
+  <li> I love learning new things and building projects with them.</li>
+</ul> 
+    </td>
+<th><img src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
+</td></tr>
+</table>
 
 <h2 align="center">Technologies & Tools</h2>
 
@@ -50,4 +51,4 @@
 
 --- 
 
-<h3 align="center"><span  style="font-style: italic;"> Check out my itch page where I publish browser games and applications from</span> <a style="font-weight:bold" href="https://umutsevdi.itch.io/"> here!</a></h3>
+<h3 align="center">Check out my itch page where I publish browser games and applications from</span> <a href="https://umutsevdi.itch.io/"> here!</a></h3>
