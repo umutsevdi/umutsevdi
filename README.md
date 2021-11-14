@@ -10,22 +10,17 @@
 </p>
 <h2 align="center">About Me</h2>
 <table align="left">
-  <tr><td>
- <ul>
+<tr><td><ul>
   <li>I'm studying Computer Engineering at Yildiz Technical University in Istanbul, Turkey.</li>
   <li> I'm interested in backend development, computer graphics and computer networks.</li>
   <li> I love learning new things and building projects with them.</li>
-</ul> 
-    </td>
-<th><img src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
-</td></tr>
-</table>
-
+</ul> </td><td>
+    <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
+</td></tr></table>
 <h2 align="center">Technologies & Tools</h2>
 
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=10">
+<img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=10">
 </p>
 
 <p align="center">
@@ -51,4 +46,4 @@
 
 --- 
 
-<h3 align="center">Check out my itch page where I publish browser games and applications from</span> <a href="https://umutsevdi.itch.io/"> here!</a></h3>
+<h3 align="center">🎮 Check out my itch page where I publish browser games and applications from</span> <a href="https://umutsevdi.itch.io/"> here! 🎮</a></h3>
