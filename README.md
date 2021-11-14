@@ -48,4 +48,6 @@
 <img src="https://img.icons8.com/windows/30/60467a/fedora.png" title="Fedora">
 <img src="https://img.icons8.com/plasticine/30/000000/bash.png"/ title="Bash">
 
-<h3 align="center">🎮<span  style="font-style: italic;"> Also you can check out my latest games from</span> <a style="font-weight:bold" src="https://umutsevdi.itch.io/"> 👾here!👾</a></h3>
+--- 
+
+<h3 align="center"><span  style="font-style: italic;"> Check out my itch page where I publish browser games and applications from</span> <a style="font-weight:bold" href="https://umutsevdi.itch.io/"> here!</a></h3>
