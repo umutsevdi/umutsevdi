@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/NodeJS-Express-%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS Express Framework">
 <img src="https://img.shields.io/badge/Go-mux-%233?&style=flat-square&logo=Go&color=375eab" title=Go>
 <img src="https://img.shields.io/badge/Godot-GDScript-%233?&style=flat-square&logo=gd&color=355570" title="Godot Engine with GD Script">
-<img src="https://img.shields.io/badge/Dart-Flutter-%233?&style=flat-square&logo=flutter&color=00B4AB" title="Dart Flutter Framework">
 <p align="center">
 <img src="https://img.icons8.com/material-outlined/30/github.png" title="Github">
 <img src="https://img.icons8.com/color/30/git.png" title="Git">
