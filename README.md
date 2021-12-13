@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/C--%233?&style=flat-square&logo=cplusplus&color=grey" title=C>
 <img src="https://img.shields.io/badge/Java-Spring-%233?&style=flat-square&logo=java&color=b07219" title="Java Spring Framework">
 <img src="https://img.shields.io/badge/NodeJS-Express-%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS Express Framework">
+<img src="https://img.shields.io/badge/Shell--%233?&style=flat-square&logo=gnubash&color=4EAA25" title=Bash>
+
 <img src="https://img.shields.io/badge/Go--%233?&style=flat-square&logo=Go&color=375eab" title=Go>
 <img src="https://img.shields.io/badge/Godot-GDScript-%233?&style=flat-square&logo=gd&color=355570" title="Godot Engine with GD Script">
 <p align="center">
@@ -41,7 +43,6 @@
 <img src="https://img.icons8.com/windows/30/3459DB/digital-ocean.png" title="Digital Ocean">
 <img src="https://img.icons8.com/color/30/linux.png" title="Linux">
 <img src="https://img.icons8.com/windows/30/60467a/fedora.png" title="Fedora">
-<img src="https://img.icons8.com/plasticine/30/000000/bash.png"/ title="Bash">
 
 --- 
 
