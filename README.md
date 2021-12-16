@@ -20,7 +20,7 @@
 <h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
-<img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=8">
+<img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6">
 </p>
 
 <p align="center">
