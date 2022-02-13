@@ -35,7 +35,7 @@
 <img src="https://img.icons8.com/material-outlined/30/github.png" title="Github">
 <img src="https://img.icons8.com/color/30/git.png" title="Git">
 <img src="https://img.icons8.com/ios/30/2A9356/maven-ios.png" title="Maven">
-<img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/>" title="Vim">
+<img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/> title="Vim">
 <img src="https://img.icons8.com/40/3d9970/webgl.png" title="WebGL">
 <img src="https://img.icons8.com/color/30/mongodb.png" title="Mongo DB">
 <img src="https://img.icons8.com/color/30/postgresql.png" title="Postgresql">
