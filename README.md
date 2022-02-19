@@ -10,12 +10,14 @@
 </p>
 <h2 align="center">About Me</h2>
 <table align="left">
-<tr><td><ul>
-  <li>I'm studying Computer Engineering at Yildiz Technical University in Istanbul, Turkey.</li>
-  <li> I'm interested in backend development, computer graphics and computer networks.</li>
-  <li> I love learning new things and building projects with them.</li>
-</ul> </td><td>
-    <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
+<tr><td>
+  Hi, I'm Umut! 
+  
+  I am studying Computer Engineering at Yıldız Technical University. I love being part of projects. Although I'm interested in Web Development in general, I prefer working in Backend Development.
+  
+  I'm interested in backend development, computer graphics and computer networks.</li>
+  </td><td>
+   <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
 </td></tr></table>
 <h2 align="center">Technologies & Tools</h2>
 
