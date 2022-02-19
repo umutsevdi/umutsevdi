@@ -14,8 +14,9 @@
   I am studying Computer Engineering at Yıldız Technical University. I love being part of projects. Although I'm interested in Web Development in general, I prefer working in Backend Development.
   
   I'm interested in backend development, computer graphics and computer networks.
-  
+  <p align="center">
   <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
+  </p>
 <h2 align="center">Technologies & Tools</h2>
 
 <p align="center">
