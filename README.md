@@ -14,36 +14,34 @@
   I am studying Computer Engineering at Yıldız Technical University. I love being part of projects. Although I'm interested in Web Development in general, I prefer working in Backend Development.
   
   I'm interested in backend development, computer graphics and computer networks.
-  <p align="center">
-  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
-  </p>
-<h2 align="center">Technologies & Tools</h2>
+  
+  <h2 align="center"> Tools & Technologies</h2>
 
-<p align="center">
-<img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6">
+  <p align="center">
+  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="150">  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6" height="150"> 
 </p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/C--%233?&style=flat-square&logo=cplusplus&color=grey" title=C>
-<img src="https://img.shields.io/badge/Java--%233?&style=flat-square&logo=java&color=b07219" title="Java Spring Framework">
-<img src="https://img.shields.io/badge/NodeJS--%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS Express Framework">
+<img src="https://img.shields.io/badge/Java--%233?&style=flat-square&logo=java&color=b07219" title="Java">
+<img src="https://img.shields.io/badge/NodeJS--%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS">
 <img src="https://img.shields.io/badge/Shell--%233?&style=flat-square&logo=gnubash&color=4EAA25" title=Bash>
-
 <img src="https://img.shields.io/badge/Go--%233?&style=flat-square&logo=Go&color=375eab" title=Go>
-<img src="https://img.shields.io/badge/Godot--%233?&style=flat-square&logo=gd&color=355570" title="Godot Engine">
+<img src="https://img.shields.io/badge/Lua--%233?&style=flat-square&logo=lua&color=000080" title=Lua>
+<p align="center">
+<img src="https://img.icons8.com/color/344/spring-logo.png" title="Spring Boot" height="30">
+<img src="https://img.icons8.com/color/30/mongodb.png" title="Mongo DB">
+<img src="https://img.icons8.com/color/30/postgresql.png" title="Postgresql">
+<img src="https://img.icons8.com/40/3d9970/webgl.png" title="WebGL">
+<img src="https://img.icons8.com/color/30/docker.png" title="Docker">
 <p align="center">
 <img src="https://img.icons8.com/material-outlined/30/github.png" title="Github">
 <img src="https://img.icons8.com/color/30/git.png" title="Git">
-<img src="https://img.icons8.com/ios/30/2A9356/maven-ios.png" title="Maven">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png" title="Vim">
-<img src="https://img.icons8.com/40/3d9970/webgl.png" title="WebGL">
-<img src="https://img.icons8.com/color/30/mongodb.png" title="Mongo DB">
-<img src="https://img.icons8.com/color/30/postgresql.png" title="Postgresql">
-<p align="center">
-<img src="https://img.icons8.com/color/30/docker.png" title="Docker">
 <img src="https://img.icons8.com/windows/30/3459DB/digital-ocean.png" title="Digital Ocean">
 <img src="https://img.icons8.com/color/30/linux.png" title="Linux">
 <img src="https://img.icons8.com/windows/30/60467a/fedora.png" title="Fedora">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png" title="Vim">
 
 --- 
 
