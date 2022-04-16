@@ -3,10 +3,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/umut-sevdi/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:sevdiumut@protonmail.com">
-<img src="https://img.shields.io/badge/Protonmail-%23292536.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 <a href="mailto:sevdiumut@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%234E34A7.svg?&style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://umutsevdi.itch.io/">
+<img src="https://img.shields.io/badge/itch.io-234004A7.svg?&style=for-the-badge&logo=itch.io&logoColor=white"></a>
 </p>
 <h2 align="center">About Me</h2>
   Hi, I'm Umut! 
@@ -33,7 +33,6 @@
 <img src="https://img.icons8.com/color/344/spring-logo.png" title="Spring Boot" height="30">
 <img src="https://img.icons8.com/color/30/mongodb.png" title="Mongo DB">
 <img src="https://img.icons8.com/color/30/postgresql.png" title="Postgresql">
-<img src="https://img.icons8.com/40/3d9970/webgl.png" title="WebGL">
 <img src="https://img.icons8.com/color/30/docker.png" title="Docker">
 <p align="center">
 <img src="https://img.icons8.com/material-outlined/30/github.png" title="Github">
