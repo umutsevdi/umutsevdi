@@ -11,9 +11,9 @@
 <h2 align="center">About Me</h2>
   Hi, I'm Umut! 
   
-  I am studying Computer Engineering at Yıldız Technical University. I love being part of projects. Although I'm interested in Web Development in general, I prefer working in Backend Development.
+  I am studying Computer Engineering at Yıldız Technical University. I love making projects and tweaking my Linux Desktop.
   
-  I'm interested in backend development, computer graphics and computer networks.
+  I'm interested in backend development, computer networks, computer graphics.
   
   <h2 align="center"> Tools & Technologies</h2>
 
