@@ -18,7 +18,7 @@
   <h2 align="center"> Tools & Technologies</h2>
 
   <p align="center">
-  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="150">  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6" height="150"> 
+  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="150">  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" height="150"> 
 </p>
 
 
