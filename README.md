@@ -11,9 +11,9 @@
 <h2 align="center">About Me</h2>
   Hi, I'm Umut! 
   
-  I am studying Computer Engineering at Yıldız Technical University. I love making projects and tweaking my Linux Desktop.
-  
-  I'm interested in backend development, computer networks, computer graphics.
+  I am studying Computer Engineering at Yıldız Technical University.  
+  I'm interested in backend development, computer networks, computer graphics and 
+  I love tweaking my Linux Desktop.
   
   <h2 align="center"> Tools & Technologies</h2>
 
@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/NodeJS--%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS">
 <img src="https://img.shields.io/badge/Shell--%233?&style=flat-square&logo=gnubash&color=4EAA25" title=Bash>
 <img src="https://img.shields.io/badge/Go--%233?&style=flat-square&logo=Go&color=375eab" title=Go>
-<img src="https://img.shields.io/badge/Lua--%233?&style=flat-square&logo=lua&color=000080" title=Lua>
 <p align="center">
 <img src="https://img.icons8.com/color/344/spring-logo.png" title="Spring Boot" height="30">
 <img src="https://img.icons8.com/color/30/mongodb.png" title="Mongo DB">
