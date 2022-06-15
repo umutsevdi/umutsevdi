@@ -12,20 +12,21 @@
   Hi, I'm Umut! 
   
   I am studying Computer Engineering at Yıldız Technical University.  
-  I'm interested in backend development, computer networks, computer graphics and 
+  I'm interested in backend development, computer networks, computer graphics and
   I love tweaking my Linux Desktop.
   
   <h2 align="center"> Tools & Technologies</h2>
 
   <p align="center">
-  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="150">  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" height="150"> 
+  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api?username=umutsevdi&show_icons=true&count_private=true&theme=default&include_all_commits=true" height="150">
+  <img href="https://github.com/umutsevdi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsevdi&layout=compact&theme=default&langs_count=6&hide=html,css" height="150"> 
 </p>
 
 
 <p align="center">
 <img src="https://img.shields.io/badge/C--%233?&style=flat-square&logo=cplusplus&color=grey" title=C>
 <img src="https://img.shields.io/badge/Java--%233?&style=flat-square&logo=java&color=b07219" title="Java">
-<img src="https://img.shields.io/badge/NodeJS--%233?&style=flat-square&logo=javascript&color=f1e05a" title="NodeJS">
+<img src="https://img.shields.io/badge/Javascript--%233?&style=flat-square&logo=javascript&color=f1e05a" title="Javascript">
 <img src="https://img.shields.io/badge/Shell--%233?&style=flat-square&logo=gnubash&color=4EAA25" title=Bash>
 <img src="https://img.shields.io/badge/Go--%233?&style=flat-square&logo=Go&color=375eab" title=Go>
 <p align="center">
